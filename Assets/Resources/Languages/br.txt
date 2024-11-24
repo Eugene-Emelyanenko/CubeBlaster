@@ -1,0 +1,11 @@
+PLAY=Jogar
+SETTING=Configuracao
+MENU=Menu
+RULESNAME=Como jogar
+RESUME=Resumo
+RESTART=Reiniciar
+RECORD=Registro:
+SCORE=Escore:
+RULESTEXT=Mire e dispare balas de canhao do canhão, destruindo caixas e pegando cartuchos extras
+PAUSE=Pausa
+GAMEOVER=Fim do jogo

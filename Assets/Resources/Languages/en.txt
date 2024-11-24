@@ -1,0 +1,11 @@
+PLAY=Play
+SETTING=Setting
+MENU=Menu
+RULESNAME=How to play
+RESUME=Resume
+RESTART=Restart
+RECORD=Record:
+SCORE=Score:
+RULESTEXT=Aim and fire cannonballs from the cannon, smashing crates, picking up extra shells
+PAUSE=Pause
+GAMEOVER=Game over
